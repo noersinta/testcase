@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "fullName": "Miyu",
+      "address": "Jl. Mawar",
+      "phoneNumber": "082281456789",
+      "email": "miyu@email.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Reiz",
+      "address": "Jl.Melati",
+      "phoneNumber": "082281456789",
+      "email": "Reiz@email.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Arin",
+      "address": "Jl.Anggrek",
+      "phoneNumber": "082281456789",
+      "email": "Arin@email.com"
+    },
+    {
+      "id": 4,
+      "fullName": "Ryuuji",
+      "address": "Jl.Teratai",
+      "phoneNumber": "082281456789",
+      "email": "Ryuuji@email.com"
+    }
+  ]
